@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Pierre @F3WT e.g a radio-amateur with call F3WT, located in France interested binaural stereo telegraphy shortwave listening and "hamming" with SDR (software designed receivers ) , DSP ( digital signal processing ) and coding libraries...
+- 🌱 I’m currently learning "how to"with this..
+- 💞️ I’m looking to collaborate on these techniques...
+- 📫 How to reach me: f3wt.pierre@gmail.com ...
+
+<!---
+F3WT/F3WT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
